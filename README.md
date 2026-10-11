@@ -1,0 +1,1 @@
+My journey learning Go from scratch through hands-on examples, mini-challenges, and small projects.

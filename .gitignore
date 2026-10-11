@@ -1,0 +1,10 @@
+# Compiled binaries
+*.exe
+*.out
+*.test
+
+# Environment files
+.env
+
+# IDE settings
+.vscode/
